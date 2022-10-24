@@ -1,0 +1,25 @@
+{% assign sorted_pages = site.html_pages | sort: "order"  %}
+
+<header>
+    <div class="wrapper">
+        <div class="logo">
+            <a href="{{ "/" | relative_url }}">Amen TV</a>
+        </div>
+        <span id="toggle" class="fa-solid fa-bars"></span>
+        <nav>
+            {% for page in sorted_pages %}
+                {% if page.title and page.order %}
+                    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+                {% endif %}
+            {% endfor %}
+        </nav>
+    </div>
+</header>
+<script>
+    let toggleBtn = document.getElementById("toggle")
+    toggleBtn.addEventListener("click", () => {
+        document.getElementsByTagName("header")[0].classList.toggle("show")
+        toggleBtn.classList.toggle("fa-bars")
+        toggleBtn.classList.toggle("fa-xmark")
+    })
+</script>
