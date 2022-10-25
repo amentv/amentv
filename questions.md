@@ -24,6 +24,8 @@ This page contains questions many muslims might have about Jesus and the bible. 
 <details>
     <summary>الذبح العظيم</summary>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/i0hMxKm7YqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    المسيح هو الذبح العظيم
+    هل الكبش الذي قدمه الله لإبراهيم يرمز إلى المسيح؟
 </details>
 ### Section2
 
