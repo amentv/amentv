@@ -2,7 +2,6 @@
 layout: default
 title: "Questions"
 permalink: "/"
-order: 2
 ---
 
 # Difficult Questions
