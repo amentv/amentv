@@ -28,6 +28,7 @@ This page contains questions many muslims might have about Jesus and the bible. 
     المسيح هو الذبح العظيم
     هل الكبش الذي قدمه الله لإبراهيم يرمز إلى المسيح؟
 </details>
+
 ### Section2
 
 <details>
