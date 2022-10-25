@@ -5,12 +5,6 @@ permalink: "/en/"
 ---
 
 
----
-layout: default
-title: "Questions"
-permalink: "/"
----
-
 # Prayer Calling
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ebGWOQoj4qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
