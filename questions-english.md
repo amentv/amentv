@@ -32,12 +32,13 @@ This page contains questions many muslims might have about Jesus and the bible. 
     {% include embed_yt.html id="i0hMxKm7YqE" %}
 </details>
 
-<details>
-    <summary>Hello</summary>
-    {% include embed_yt.html id="i0hMxKm7YqE" %}
-</details>
 
-### Section2
+### God
+
+<details>
+    <summary>Proving God's Existing</summary>
+    {% include embed_yt.html id="yy6lG4jotCs" %}
+</details>
 
 <details>
     <summary>Is Jesus God?</summary>
