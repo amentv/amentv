@@ -25,12 +25,16 @@ This page contains questions many muslims might have about Jesus and the bible. 
 <details>
     <summary>Natural Instict</summary>
     {% include embed_yt.html id="We_PRqSWo6o" %}
-    
 </details>
+
 <details>
     <summary>Ultimate Sacrifice</summary>
     {% include embed_yt.html id="i0hMxKm7YqE" %}
+</details>
 
+<details>
+    <summary>Hello</summary>
+    {% include embed_yt.html id="i0hMxKm7YqE" %}
 </details>
 
 ### Section2
