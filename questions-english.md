@@ -15,36 +15,23 @@ This page contains questions many muslims might have about Jesus and the bible. 
 * TOC
 {:toc}
 
-### Jesus
+## Jesus
 
-<details>
-    <summary>The Burden of Sin</summary>
-    {% include embed_yt.html id="7IVT6nTOJv8" %}
-</details>
+### The Burden of Sin
+{% include embed_yt.html id="7IVT6nTOJv8" %}
+Some explanation text here.
 
-<details>
-    <summary>Natural Instict</summary>
-    {% include embed_yt.html id="We_PRqSWo6o" %}
-</details>
+### Natural Instict
+{% include embed_yt.html id="We_PRqSWo6o" %}
+Some more explanation here.
 
-<details>
-    <summary>Ultimate Sacrifice</summary>
-    {% include embed_yt.html id="i0hMxKm7YqE" %}
-</details>
+### Ultimate Sacrifice
+{% include embed_yt.html id="i0hMxKm7YqE" %}
+Some more explanation here.
 
 
-### God
+## God
 
-<details>
-    <summary>Proving God's Existing</summary>
-    {% include embed_yt.html id="yy6lG4jotCs" %}
-</details>
+### Proving God's Existing 
+{% include embed_yt.html id="yy6lG4jotCs" %}
 
-<details>
-    <summary>Is Jesus God?</summary>
-    Test
-</details>
-<details>
-    <summary>Is Jesus God?</summary>
-    Test
-</details>
