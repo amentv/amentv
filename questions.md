@@ -2,28 +2,34 @@
 layout: default
 title: "Questions"
 permalink: "/"
+lang: "ar"
 ---
 
 # Prayer Calling
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ebGWOQoj4qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{:.no_toc}
+{% include embed_yt.html id="ebGWOQoj4qU" %}
+
 
 This page contains questions many muslims might have about Jesus and the bible. Click on a question you have below and watch the video for an answer.
+
+* TOC
+{:toc}
 
 ### Jesus
 
 <details>
     <summary>The Burden of Sin</summary>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7IVT6nTOJv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% include embed_yt.html id="7IVT6nTOJv8" %}
 </details>
 
 <details>
     <summary>Natural Instict</summary>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/We_PRqSWo6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% include embed_yt.html id="We_PRqSWo6o" %}
     
 </details>
 <details>
     <summary>الذبح العظيم</summary>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/i0hMxKm7YqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% include embed_yt.html id="i0hMxKm7YqE" %}
     
     المسيح هو الذبح العظيم
     هل الكبش الذي قدمه الله لإبراهيم يرمز إلى المسيح؟

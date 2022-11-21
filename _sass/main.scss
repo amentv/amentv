@@ -6,6 +6,7 @@ $accentColor: #0096FF;
 $accentTextColor: white;
 
 $menuHeight: 40px;
+$maxWidth: 800px;
 
 
 
@@ -19,6 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  align-items: stretch;
 }
 
 header {
@@ -33,6 +35,8 @@ header {
     height: 100%;
     padding: 10px;
     box-sizing: border-box;
+    max-width: $maxWidth;
+    margin: 0 auto;
   }
   .logo {
     font-size: 25px;
@@ -95,10 +99,13 @@ header {
 }
 
 .content {
-  max-width: 1000px;
+  max-width: $maxWidth;
   padding: 20px;
   flex-grow: 1;
+  align-self: center;
 }
+
+
 
 
 blockquote {
