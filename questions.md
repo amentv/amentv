@@ -27,11 +27,11 @@ Now when all things are made subject to Him, then the Son Himself will also be s
 ### Natural Instict No2
 {% include embed_yt.html id="We_PRqSWo6o" %}
     
-### No 3 الذبح العظيم
+### Ultimate sacrifice No3 الذبح العظيم
 {% include embed_yt.html id="i0hMxKm7YqE" %}
 المسيح هو الذبح العظيم
 هل الكبش الذي قدمه الله لإبراهيم يرمز إلى المسيح؟
 ### Does God speak? No 4  هل الله يتكلم
-{% include embed_yt.html id="[i0hMxKm7YqE](https://www.youtube.com/watch?v=gKuCDfhB9ag&t=4s)" %}
+{% include embed_yt.html id="(https://www.youtube.com/watch?v=gKuCDfhB9ag&t=4s)" %}
 الله تكلم ويتكلم دائماً بطرق متعددة
 تكلم في أخيراً من خلال المسيح كلمته المتجسد
