@@ -16,10 +16,9 @@
 
   </head>
   <body>
-    {%- include header.html -%}
+    {%- include header.html home=info.home -%}
     <div class="content">
       {{ content }}
-      {{ info.dir }}
     </div>
     {%- include footer.html -%}
   </body>

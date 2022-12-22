@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Questions English"
+title: "Questions"
 permalink: "/en/"
 lang: "en"
 ---

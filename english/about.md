@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "About"
-permalink: "/about"
-order: 3
+permalink: "/en/about"
+order: 1
+lang: "en"
 ---
 
 # About

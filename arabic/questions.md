@@ -60,9 +60,3 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 ### One God to three ? No10 / إله واحد ام ثلاثة؟
 {% include embed_yt.html id="(https://www.youtube.com/watch?v=7mRUZ7djau4)" %}
 هل المسيحية ام الإسلام ينادي بعقيدة التوحيد؟
-
-
-
-
-
-

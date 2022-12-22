@@ -6,6 +6,10 @@ lang:
   en:
     dir: "ltr"
     name: "en"
+    home: "/en/"
+    display: "English"
   ar:
     dir: "rtl"
     name: "ar"
+    home: "/"
+    display: "Arabic"

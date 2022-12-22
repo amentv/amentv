@@ -1,25 +1,50 @@
-{% assign sorted_pages = site.html_pages | sort: "order"  %}
+{%- assign sorted_pages = site.html_pages | sort: "order" -%}
+{%- assign info = site.lang | where: 'name', page.lang | first -%}
 
 <header>
+  <div class="upper">
     <div class="wrapper">
-        <div class="logo">
-            <a href="{{ "/" | relative_url }}">Amen TV</a>
-        </div>
-        <span id="toggle" class="fa-solid fa-bars"></span>
-        <nav>
-            {% for page in sorted_pages %}
-                {% if page.title and page.order %}
-                    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-                {% endif %}
-            {% endfor %}
-        </nav>
+      {%- for l in site.lang -%}
+        {%- if l[1].name != page.lang -%}
+          {%- for p in sorted_pages -%}
+            {%- if p.name == page.name and p.lang == l[1].name -%}
+              <a href="{{ p.url | relative_url }}">{{ l[1].display }}</a>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endfor -%}
     </div>
+  </div>
+  <div class="lower">
+    <div class="wrapper">
+      <div class="logo">
+        <a href="{{ include.home | relative_url }}">
+          <img src="{{ "/assets/logo.png" | relative_url }}" alt="AmenTV">
+        </a>
+      </div>
+      <span id="toggle" class="fa-solid fa-bars"></span>
+      <nav>
+        {% for p in sorted_pages %}
+          {% if p.title and p.order and page.lang == p.lang %}
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
 </header>
 <script>
-    let toggleBtn = document.getElementById("toggle")
-    toggleBtn.addEventListener("click", () => {
-        document.getElementsByTagName("header")[0].classList.toggle("show")
-        toggleBtn.classList.toggle("fa-bars")
-        toggleBtn.classList.toggle("fa-xmark")
-    })
+  let toggleBtn = document.getElementById("toggle")
+  toggleBtn.addEventListener("click", () => {
+    document
+      .getElementsByTagName("header")[0]
+      .classList
+      .toggle("show")
+      toggleBtn
+      .classList
+      .toggle("fa-bars")
+    toggleBtn
+    .classList
+    .toggle("fa-xmark")
+})
 </script>
