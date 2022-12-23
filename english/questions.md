@@ -6,7 +6,7 @@ lang: "en"
 ---
 
 
-# Prayer Calling
+# Reaching out to Muslims
 {:.no_toc}
 {% include embed_yt.html id="ebGWOQoj4qU" %}
 

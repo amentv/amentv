@@ -19,6 +19,12 @@ header nav a { display: block; padding: 5px 15px; }
 .content { width: 100%; max-width: 800px; padding: 20px; flex-grow: 1; align-self: center; }
 .content iframe { margin: 0 auto; display: block; }
 
+h1 { text-align: center; font-weight: bold; }
+
+p { overflow-wrap: break-word; }
+
+.yt { aspect-ratio: 16 / 9; width: 100%; height: auto; }
+
 @media screen and (min-width: 800px) { header .logo { flex-grow: 1; }
   header nav { display: flex; position: initial; height: 100%; flex-direction: row; width: initial; }
   #toggle { display: none; } }

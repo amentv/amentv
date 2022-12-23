@@ -5,7 +5,7 @@ permalink: "/"
 lang: "ar"
 ---
 
-### Prayer Calling
+# Reaching out to Muslims
 {:.no_toc}
 {% include embed_yt.html id="ebGWOQoj4qU" %}
 
@@ -15,7 +15,7 @@ This page contains questions many muslims might have about Jesus and the bible. 
 * TOC
 {:toc}
 
-### Jesus
+## Jesus
 
 ### The Burden of Sin No1 لا أحد يحمل خطايا الآخرين
 {% include embed_yt.html id="7IVT6nTOJv8" %}
@@ -27,7 +27,7 @@ Now when all things are made subject to Him, then the Son Himself will also be s
 ### Natural Instict No2 الفطرة
 {% include embed_yt.html id="We_PRqSWo6o" %}
 
-    1. Natural instinct is not the religion of Islam; instead, desire, God, put in the human heart to seek everlasting life live forever. The eternal life is Christ.
+1. Natural instinct is not the religion of Islam; instead, desire, God, put in the human heart to seek everlasting life live forever. The eternal life is Christ.
     
 ### Ultimate sacrifice No3 /الذبح العظيم
 {% include embed_yt.html id="i0hMxKm7YqE&t=16s" %}

@@ -113,6 +113,19 @@ header {
   }
 }
 
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+p {
+  overflow-wrap: break-word;
+}
+
+.yt {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: auto;
+}
 
 @media screen and (min-width: 800px) {
   header {
