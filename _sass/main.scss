@@ -105,6 +105,7 @@ header {
   width: 100%;
   max-width: $maxWidth;
   padding: 20px;
+  box-sizing: border-box;
   flex-grow: 1;
   align-self: center;
   iframe {
