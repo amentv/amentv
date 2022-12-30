@@ -29,6 +29,9 @@ Some more explanation here.
 {% include embed_yt.html id="i0hMxKm7YqE" %}
 Some more explanation here.
 
+### Testimony:Former Muslim Waris from Afganistan
+{% include embed_yt.html id="5ftm49JRumE" %}
+"Jesus is The Living God."
 
 ## God
 
