@@ -29,11 +29,17 @@ Some more explanation here.
 {% include embed_yt.html id="i0hMxKm7YqE" %}
 Some more explanation here.
 
+### Testimony: Former Muslim Rev Joseph from Nigeria
+{% include embed_yt.html id="SBkI3zrrou0" %}
+Jesus is the only way to the heaven.
+
 ### Testimony:Former Muslim Waris from Afganistan
 {% include embed_yt.html id="5ftm49JRumE" %}
 "Jesus is The Living God."
 
-## God
+### Testimony:Former Muslim Husein from Palestain
+{% include embed_yt.html id="qECtnkDOt2Y" %}
+Jesis is the life.
 
 ### Proving God's Existing 
 {% include embed_yt.html id="yy6lG4jotCs" %}
