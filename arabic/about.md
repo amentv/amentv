@@ -29,5 +29,8 @@ We believe that you will see the miraculous work of the Holy Spirit!
 (That sharing in sowing will be sharing in harvesting).
 
 # BOOKS: REACHING OUT... PART I, PART II, MBBS DISCIPLESHIP, THE BOOK OF QURAN, 100 FACTS ABOUT ISLAM, REDEMPTION PLAN IN QURAN THROUGH CHRIST, ANSWERING MUSLIMS 5 COMMON QUESTIONS FROM QURAN & BIBLE
+<img width="227" alt="image" src="https://user-images.githubusercontent.com/116606482/210149153-19e56a69-d154-4782-9ff4-33ee0f06a07d.png">
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/116606482/210149160-0ec6ab81-2313-4532-9c28-52131c76641d.png">
+
 
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
