@@ -30,7 +30,7 @@ Now when all things are made subject to Him, then the Son Himself will also be s
 1. Natural instinct is not the religion of Islam; instead, desire, God, put in the human heart to seek everlasting life live forever. The eternal life is Christ.
     
 ### Ultimate sacrifice No3 /الذبح العظيم
-{% include embed_yt.html id="i0hMxKm7YqE&t=16s" %}
+{% include embed_yt.html id="i0hMxKm7YqE" %}
 Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 المسيح هو الذبح العظيم
 هل الكبش الذي قدمه الله لإبراهيم يرمز إلى المسيح؟
