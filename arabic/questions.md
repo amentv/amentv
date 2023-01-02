@@ -44,7 +44,6 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 ### God is Love No6  /الله محبة
 {% include embed_yt.html id="ctlAS-KqYE8" %}
 هل تعتقد أن الله يحبك؟
-
 ### Who is Christ ? No7 /منْ هو المسيح؟ 
 {% include embed_yt.html id="AYqognn4uhI" %}
 هل المسيح نبي، رسول، إنسان أم إله؟
