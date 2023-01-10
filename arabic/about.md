@@ -6,31 +6,57 @@ order: 1
 lang: "ar"
 ---
 
-# MY PATH
+# منْ نحن
 
-Dear Brothers and Sisters in Christ I am brother Jafer a Muslim convert. I met the Lord Jesus through a vision He gave me in 1986.Jesus saved my life and since then He has become my Lord and Savior.
+اخوتي وأخواتي الأعزاء في المسيح. 
+أنا الأخ جعفر مسلم سابق.
+التقيت وآمنت بالرب يسوع من خلال رؤية أعطاني إياها في عام ١٩٨٦.
+لقد أنقذ يسوع حياتي ومنذ ذلك الحين هو ربي ومخلصي.
+منذ عام ٢٠٠٣، فتح الرب لي الأبواب لإعلان الإنجيل من خلال وسائل الإعلام الفضائية المسيحية.
+خلال السنوات الماضية إلى هذا اليوم، باركني الرب بفرصة مشاركة الحق مع أحبائنا المسلمين على المحطات التلفزيونية المسيحية: قناة الحياة، الآرامية، الكرمة، الحقيقة، الفادي، وقناة آمين.
+بفضل الرب يسوع المسيح، سمع صوتي في أنحاء كثيرة من العالم.
+المسلمون يأتون إلى المسيح على الهواء مباشرة على التلفزيون بينما يقدم الإنجيل لهم.
+أعطاني الرب دعوة واضحة للإرسالية على مر السنين.
+لقد زاد الرب في قلبي العزيمة لمساعدة المسلمين للتعرف على السيد المسيح..
+الآن، يثير الرب يسوع قلبي وروحي للوصول إلى المزيد من المسلمين من خلال قناة آمين Amen TV.
+يرجى الصلاة أن يستخدمنا الرب يسوع لتحقيق خطته في حياتنا وفقًا لدعوته.
+ربنا يحميكم. اخوكم خادم الرب / جعفر
 
-In 2003, the Lord opened the doors for me to proclaim the gospel on a global level through Christian satellite media. During the last eight years, the Lord has blessed me with the opportunity to be involved with Christian Arabic TV stations such as: Alhayat, ABN, Alkarma, Alhakika and Alfady. By the Grace of God, my voice has been heard around the world. Muslims are coming to Christ on live TV as the gospel is being preached. The Lord has given me a clear calling to missions; over the years.
 
-The Lord has grown a tremendous burden in my heart for Muslims. Now, the Lord Jesus is stirring up my heart and spirit to reach more Muslims 21/7 through Amen TV. Please pray that the Lord Jesus will use us to accomplish His plan in our lives according to His calling. God Bless You. Your brother and servant of the Lord, Jafer
 
-# ABOUT REACHING OUT...
+# كرازة وتواصل مع المسلمين
 
-Hallelujah!
-Jesus said, "I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So, there will be one flock, one shepherd" (John 10:16)
-By a calling from our Lord, Jesus Christ, we have been preaching the Good News to Muslims since 1986. By God's Grace, many Muslims are coming to Christ's family.
-Amen TV is a non-profit Christian organization founded by a Christian who was a former Muslim who received this vision from the LORD.
-The vision of Amen TV is to reach out to Muslims and effectively guide them to the Truth. 
-We also strive to be the best evangelical tool and the most potent source for reaching out to Muslims.
-We provide evangelical programs and spiritual discipleship to new believers to help them grow in their faith in Christ.
-Amen TV helps missionaries called to serve among Islamic regions and for anyone who wants to know facts about Islam.
-Pray and be partner with us, please.
-We believe that you will see the miraculous work of the Holy Spirit!
-(That sharing in sowing will be sharing in harvesting).
+قال يسوع، "وَلِي خِرَافٌ أُخَرُ لَيْسَتْ مِنْ هَذِهِ الْحَظِيرَةِ يَنْبَغِي أَنْ آتِيَ بِتِلْكَ أَيْضاً فَتَسْمَعُ صَوْتِي وَتَكُونُ رَعِيَّةٌ وَاحِدَةٌ وَرَاعٍ وَاحِدٌ" (يوحنا ١٠: ١٦)
+بدعوة من ربنا يسوع المسيح، نكرز بالبشارة السارة للمسلمين منذ عام ١٩٨٦. وبفضل الرب يأتي العديد من المسلمين إلى عائلة المسيح.
+قناة آمين: منظمة مسيحية غير قبالة للربح، أسسها مسيحي كان مسلمًا سابقًا. 
+تتمثل رؤية قناة آمين في الوصول إلى المسلمين وإرشادهم بشكل فعال إلى الحق ونور السيد المسيح. كما نسعى جاهدين لنكون وسيلة إنجيلية مثالية ومصدر قوي للتواصل مع المسلمين.
+نقدم برامج إنجيلية وتلمذة روحية للمؤمنين الجدد لمساعدتهم على النمو في إيمانهم بالمسيح.
+تساعد قناة آمين خدام المسيح المدعوين للخدمة بين المناطق الإسلامية ولمن يريد معرفة حقائق عن الإسلام. 
+صلوا وكن شريكا معنا من فضلك. نحن نؤمن أننا سنرى عمل الروح القدس في حياة مسلمين كثيرين.
+(الشريك في البذر شريك في الحصاد)
 
-# BOOKS: REACHING OUT... PART I, PART II, MBBS DISCIPLESHIP, THE BOOK OF QURAN, 100 FACTS ABOUT ISLAM, REDEMPTION PLAN IN QURAN THROUGH CHRIST, ANSWERING MUSLIMS 5 COMMON QUESTIONS FROM QURAN & BIBLE
+
+
+# الكتب: 
+ (١) كرازة وتواصل مع المسلمين: 
+(تعليم الكرازة والتواصل مع المسلمين، ومجاوبة اسئلتهم الاعتيادية).
+(٢) تلمذة العابرين:
+ (تعليم العابرين للنمو في الحياة المسيحية حسب كلمة الله). 
+(٣) كتاب القرآن: 
+(ترجمة جيدة حسب النص العربي للقران، واقتباسات القران من الكتاب المقدس). (٤) ١٠٠حقيقة عن الإسلام: 
+(نظرة جديدة لمعرفة حقيقة الإسلام من آيات القران). 
+ (٥) خطة الفداء في القرآن من خلال المسيح: 
+(المسيح الطريق الحق والنجاة حسب آيات القران). 
+(٦) مجاوبة أسئلة المسلمين من القرآن والكتاب المقدس:
+ (الصلب، التجسد، الوهية المسيح، الثالوث، وعصمة الكتاب المقدس). 
+
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/116606482/210149153-19e56a69-d154-4782-9ff4-33ee0f06a07d.png">
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/116606482/210149160-0ec6ab81-2313-4532-9c28-52131c76641d.png">
 
 
-# AMEN TV EMAIL: AMENSATTV@GMAIL.COM
+# AMEN TV EMAIL: AMENSATTV@GMAIL.COM 
+# MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
+# WEBSITE: WWW.AMENTV.TV
+# YOUTUBE: AMENTV AMENTV
+# FACEBOOK: AMENTV AMENTV
+
