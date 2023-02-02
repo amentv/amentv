@@ -33,11 +33,10 @@ Pray and partner with us, please. We believe that we all will see the miraculous
 
 # Free Sharing Book : Reaching Out Part 1
 <https://drive.google.com/file/d/1pcV4AejygLoIOXHAbfDDWBe_3refoSBy/view?usp=share_link>
-https://drive.google.com/file/d/1pcV4AejygLoIOXHAbfDDWBe_3refoSBy/view?usp=sharing_eil_m&invite=CNnFs_IM&ts=63dc14e2
 
 # Free Sharing Book : Reaching Out Part 2
 <https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=share_link>
-https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=sharing_eil_m&ts=63dc1583
+
 
 # ORDERING BOOKS/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
