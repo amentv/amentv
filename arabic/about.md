@@ -56,12 +56,12 @@ lang: "ar"
 # يمكنك تحميل كتاب كرازة للمسلمين جزء ١ مجانا Free sharing Arabic book : Reaching Out Part 1 
 
 https://drive.google.com/file/d/1nSk77V09whk1vQISWOMi2O_WjTIExMhO/view?usp=share_link
-https://drive.google.com/file/d/1nSk77V09whk1vQISWOMi2O_WjTIExMhO/view?usp=sharing
+
 
 #  يمكنك تحميل كتاب كرازة للمسلمين جزء ٢ مجانا Free sharing Arabic book : Reaching Out Part 2
 
 https://drive.google.com/file/d/1ZbpozGWUnI-hLxmkftRWvy6myqdqreis/view?usp=share_link
-https://drive.google.com/file/d/1ZbpozGWUnI-hLxmkftRWvy6myqdqreis/view?usp=sharing_eil_m&ts=63dc1546
+
 
 
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM 
