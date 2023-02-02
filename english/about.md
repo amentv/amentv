@@ -33,8 +33,10 @@ Pray and partner with us, please. We believe that we all will see the miraculous
 
 # Free Sharing Book : Reaching Out Part 1
 <https://drive.google.com/file/d/1pcV4AejygLoIOXHAbfDDWBe_3refoSBy/view?usp=share_link>
+<https://drive.google.com/file/d/1pcV4AejygLoIOXHAbfDDWBe_3refoSBy/view?usp=share_link>
 
 # Free Sharing Book : Reaching Out Part 2
+<https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=share_link>
 <https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=share_link>
 
 
