@@ -54,9 +54,13 @@ lang: "ar"
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/116606482/210149160-0ec6ab81-2313-4532-9c28-52131c76641d.png">
 
 # يمكنك تحميل كتاب كرازة للمسلمين جزء ١ مجانا Free sharing Arabic book : Reaching Out Part 1 
+
+https://drive.google.com/file/d/1nSk77V09whk1vQISWOMi2O_WjTIExMhO/view?usp=share_link
 https://drive.google.com/file/d/1nSk77V09whk1vQISWOMi2O_WjTIExMhO/view?usp=sharing
 
 #  يمكنك تحميل كتاب كرازة للمسلمين جزء ٢ مجانا Free sharing Arabic book : Reaching Out Part 2
+
+https://drive.google.com/file/d/1ZbpozGWUnI-hLxmkftRWvy6myqdqreis/view?usp=share_link
 https://drive.google.com/file/d/1ZbpozGWUnI-hLxmkftRWvy6myqdqreis/view?usp=sharing_eil_m&ts=63dc1546
 
 
