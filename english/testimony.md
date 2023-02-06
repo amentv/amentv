@@ -21,7 +21,8 @@ Some more explanation here.
 {% include embed_yt.html id="qECtnkDOt2Y" %}
 Jesis is the life.
 
-### Testimony:Former Atheist from Korea 
+### Testimony:Former Atheist Nan from Korea 
+
 {% include embed_yt.html id="OxZJOJRQ1mM&t" %}
 Jesus is The Living God.
 
