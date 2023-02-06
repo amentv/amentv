@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "testimony"
+title: "Testimony"
 permalink: "/en/testimony"
 order: 2
 lang: "en"
