@@ -31,4 +31,10 @@ lang: "ar"
 #  يمكنك تحميل كتاب كرازة للمسلمين جزء ٢ مجانا Free sharing Arabic book : Reaching Out Part 2
 <https://drive.google.com/file/d/1ZbpozGWUnI-hLxmkftRWvy6myqdqreis/view?usp=share_link>
 
+# ORDERING BOOKS/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
+# AMEN TV EMAIL: AMENSATTV@GMAIL.COM
+# WEBSITE: WWW.AMENTV.TV
+# YOUTUBE: AMENTV AMENTV
+# FACEBOOK: AMENTV AMENTV
+
 # Content coming soon! 
