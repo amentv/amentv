@@ -22,11 +22,13 @@ Some more explanation here.
 Jesis is the life.
 
 ### Testimony:Former Atheist Nan from Korea 
-
+{% include embed_yt.html id="OxZJOJRQ1mM" %}
 {% include embed_yt.html id="OxZJOJRQ1mM&t" %}
 Jesus is The Living God.
 
-{% include embed_yt.html id="OxZJOJRQ1mM" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OxZJOJRQ1mM" title="AMEN TVقناة آمين /Testimony 6 Nan English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OxZJOJRQ1mM" title="AMEN TVقناة آمين /Testimony 6 Nan English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
