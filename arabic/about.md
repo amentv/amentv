@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About"
-permalink: "/about"
+title: "About منْ نحن"
+permalink: "/about منْ نحن"
 order: 1
 lang: "ar"
 ---
