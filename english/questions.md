@@ -35,5 +35,9 @@ Jesis is the life.
 {% include embed_yt.html id="OxZJOJRQ1mM" %}
 Jesus is the Living God.
 
+### Testimony:Former Muslim Jafer from Jordan
+{% include embed_yt.html id="NCw4mTS4f9k" %}
+Jesus Loves you, died for you.
+
 ### Baptism in the Jordan River
 {% include embed_yt.html id="7aQ-dPYBcWo" %}
