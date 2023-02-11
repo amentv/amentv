@@ -14,10 +14,9 @@ This page contains questions many muslims might have about Jesus and the bible. 
 
 * TOC
 {:toc}
-{% include embed_yt.html id="n2nyr_rxdAs" %} Rev Jacob Street Evangelism in Sweden
+{% include embed_yt.html id="n2nyr_rxdAs" %} 
+Rev Jacob Street Evangelism in Sweden
 ## Jesus
-{% include embed_yt.html id="OxZJOJRQ1mM" %}
-
 
 ### Testimony:Former Muslim Waris from Afganistan
 {% include embed_yt.html id="5ftm49JRumE" %}
@@ -32,5 +31,9 @@ Some more explanation here.
 {% include embed_yt.html id="qECtnkDOt2Y" %}
 Jesis is the life.
 
-### 
+### Testimony: Former Atheist Nan from Korea
+{% include embed_yt.html id="OxZJOJRQ1mM" %}
+Jesus is the Living God.
 
+### Baptism in the Jordan River
+{% include embed_yt.html id="7aQ-dPYBcWo" %}
