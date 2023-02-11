@@ -5,7 +5,7 @@ permalink: "/"
 lang: "ar"
 ---
 
-# كرازة وتواصل مع المسلمين 
+# كرازة وتواصل مع المسلمين Reaching Out to Muslims  
 {:.no_toc}
 {% include embed_yt.html id="ebGWOQoj4qU" %}
 
