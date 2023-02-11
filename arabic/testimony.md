@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Testimony"
-permalink: "/testimony"
+title: "Testimony اختبارات"
+permalink: "/testimony اختبارات"
 order: 2
 lang: "ar"
 ---
