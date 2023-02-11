@@ -14,8 +14,10 @@ This page contains questions many muslims might have about Jesus and the bible. 
 
 * TOC
 {:toc}
-
+{% include embed_yt.html id="n2nyr_rxdAs" %} Rev Jacob Street Evangelism in Sweden
 ## Jesus
+{% include embed_yt.html id="OxZJOJRQ1mM" %}
+
 
 ### Testimony:Former Muslim Waris from Afganistan
 {% include embed_yt.html id="5ftm49JRumE" %}
