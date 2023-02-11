@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Books"
-permalink: "/book"
+title: "Books كتب"
+permalink: "/book كتب"
 order: 3
 lang: "ar"
 ---
