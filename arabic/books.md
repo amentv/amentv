@@ -19,7 +19,32 @@ lang: "ar"
 (المسيح الطريق الحق والنجاة حسب آيات القران). 
 (٦) مجاوبة أسئلة المسلمين من القرآن والكتاب المقدس:
  (الصلب، التجسد، الوهية المسيح، الثالوث، وعصمة الكتاب المقدس). 
+[반Arabic100FactsCover2023 copy.pdf](https://github.com/amentv/amentv/files/14100595/Arabic100FactsCover2023.copy.pdf)
 
+# Free sharing Arabic book: 100 Facts About Islam You Should Know ١٠٠ حقيقة عن الاسلام
+![image](https://github.com/amentv/amentv/assets/116606482/80ffcad1-ea53-42f3-9577-3ecacb987b50)
+
+
+
+# Free sharing Arabic book: Mbbs Discipleship Part I الجزء الأول المستوى ١-٣ تلمذة العابرين 
+[WebGithubArabic Disciple #1 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14100955/WebGithubArabic.Disciple.1.September.2023.copy.pdf)
+
+# Free sharing Arabic book: Mbbs Discipleship Part II الجزء الثاني المستوى ٤-٦ تلمذة العابري
+[WebGithubArabic Disciple#2 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14101188/WebGithubArabic.Disciple.2.September.2023.copy.pdf)
+
+
+   
+![image](https://github.com/amentv/amentv/assets/116606482/49c8e32a-5b44-41c6-818d-e86e9b86f313)
+
+
+![image](https://github.com/amentv/amentv/assets/116606482/fda0126a-628c-41e4-bcfe-716c30376101)
+
+[WebGithubArabic Disciple#2 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14101038/WebGithubArabic.Disciple.2.September.2023.copy.pdf)
+
+
+![image](https://github.com/amentv/amentv/assets/116606482/02960e36-6832-42f6-8b2f-82f382663548)
+    
+![image](https://github.com/amentv/amentv/assets/116606482/5ea9dbf5-003c-465b-91c8-f659f92e3db5)
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/116606482/210149153-19e56a69-d154-4782-9ff4-33ee0f06a07d.png">
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/116606482/210149160-0ec6ab81-2313-4532-9c28-52131c76641d.png">
 
