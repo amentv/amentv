@@ -16,6 +16,13 @@ lang: "en"
 # Free Sharing Book : Reaching Out Part 2
 <https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=share_link>
 
+# Free Sharing Book : Mbbs Discipleship Part 1
+<https://github.com/amentv/amentv/files/14092270/WebGithubEnglish.Discipleship.1.September.copy.pdf>
+[WebGithubEnglish Discipleship #2 September  copy.pdf](https://github.com/amentv/amentv/files/14092320/WebGithubEnglish.Discipleship.2.September.copy.pdf)
+
+
+# Free Sharing Book : Mbbs Discipleship Part 2
+<https://github.com/amentv/amentv/files/14092310/WebGithubEnglish.Discipleship.2.September.copy.pdf>
 
 
 # ORDERING BOOKS/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
