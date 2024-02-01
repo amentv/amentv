@@ -24,7 +24,8 @@ lang: "ar"
 
 #
 # Free sharing Arabic book: 100 Facts About Islam You Should Know ١٠٠ حقيقة عن الاسلام
-![image](https://github.com/amentv/amentv/assets/116606482/80ffcad1-ea53-42f3-9577-3ecacb987b50)
+[WebBook100FactsARABIC2023 copy.pdf](https://github.com/amentv/amentv/files/14119025/WebBook100FactsARABIC2023.copy.pdf)
+
 
 
 
@@ -37,13 +38,7 @@ lang: "ar"
 [WebGithubArabic Disciple#2 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14101188/WebGithubArabic.Disciple.2.September.2023.copy.pdf)
 
 
-   
-![image](https://github.com/amentv/amentv/assets/116606482/49c8e32a-5b44-41c6-818d-e86e9b86f313)
-
-
-![image](https://github.com/amentv/amentv/assets/116606482/fda0126a-628c-41e4-bcfe-716c30376101)
-
-[WebGithubArabic Disciple#2 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14101038/WebGithubArabic.Disciple.2.September.2023.copy.pdf)
+ 
 
     
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/116606482/210149153-19e56a69-d154-4782-9ff4-33ee0f06a07d.png">
