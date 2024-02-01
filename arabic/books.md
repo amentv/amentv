@@ -33,7 +33,7 @@ lang: "ar"
 
 [WebGithubArabic Disciple #1 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14100955/WebGithubArabic.Disciple.1.September.2023.copy.pdf)
 
-# Free sharing Arabic book: Mbbs Discipleship Part II الجزء الثاني المستوى ٤-٦ تلمذة العابري
+# Free sharing Arabic book: Mbbs Discipleship Part II الجزء الثاني المستوى ٤-٦ تلمذة العابرين
 
 [WebGithubArabic Disciple#2 September 2023 copy.pdf](https://github.com/amentv/amentv/files/14101188/WebGithubArabic.Disciple.2.September.2023.copy.pdf)
 
