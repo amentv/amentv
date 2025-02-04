@@ -63,5 +63,10 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 ### 11 The Bible The Word of God/الكتاب المقدس / كلمة الله
 {% include embed_yt.html id="3nCmH2O_cBY" %}
 تؤمنوا بالله وكتبه ورسلة. الكتاب المقدس لجميع البشرية. كلمة الله الحية الباقية الثابتة الى الابد. كلمة الله تحيي رجاء في القلوب
+### 12 The Book of God/الكتاب المقدس / كتاب الله 
+{% include embed_yt.html id="Vu9sf5BQAZI" %}
+الكتاب المقدس ـ رسالة الله الى البشرية. يحتوي على التوراة، والانجيل، الزبور (المزامير)، حكمة سليمان، وانبياء ورسل ... كتاب البدايات والنهايات.
 
-
+### 13Jesus Praying on the Cross/المسيح يصلي على الصليب
+{% include embed_yt.html id="C0RxkOTSIWA" %}
+بما أنه الله، لمنْ كان يصلي؟ لماذا كان يصلي؟ 
