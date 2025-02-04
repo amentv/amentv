@@ -67,6 +67,43 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 {% include embed_yt.html id="Vu9sf5BQAZI" %}
 الكتاب المقدس ـ رسالة الله الى البشرية. يحتوي على التوراة، والانجيل، الزبور (المزامير)، حكمة سليمان، وانبياء ورسل ... كتاب البدايات والنهايات.
 
-### 13Jesus Praying on the Cross/المسيح يصلي على الصليب
+### 13 Jesus Praying on the Cross/المسيح يصلي على الصليب
 {% include embed_yt.html id="C0RxkOTSIWA" %}
 بما أنه الله، لمنْ كان يصلي؟ لماذا كان يصلي؟ 
+
+### 14 One Bible or Four/انجيل واحد أم أربعة أناجيل؟
+{% include embed_yt.html id="WRGMJiBN6QI" %}
+ـ أربع شهادات عن حياة المسيح. ـ ولادة المسيح، موته، قيامته من الأموات، صعوده الى عرش الله، معجزات المسيح. - الوهية وبشرية المسيح.
+
+### 15 ep3 ممكن عيش مسيحيتي على الطريقة الاسلامية/Can I live as a Christian but Muslim style?
+{% include embed_yt.html id="Bg6dv7pOevY" %}
+مسيحي على الطريقة الاسلامية. مسيحي أم مسلم؟ المسيح أم محمد.
+
+### 16 Is Christ God ?/ هل المسيح هو الله؟ ep4
+{% include embed_yt.html id="rL6TB6Rcmf4" %}
+آين قال المسيح في الانجيل: أنا الله اعبدوني؟ هل يعلن القرآن أن المسيح هو الله؟
+
+### 17 ep5 التجسد/Incarnation
+{% include embed_yt.html id="BFrRlmCkWQc" %}
+هل يقدر الله أن يأتي في جسد إنسان أو لا يقدر؟ هل ظهور الله من وراء حجاب يُصغّر ويُحد من عظمة الله؟ الله هو الباطن، كيف أصبح الظاهر؟
+### 18 ep6 مفهوم الثالوث الكتابي/Trinity
+{% include embed_yt.html id="idtIwwScLMU" %}
+هل يعبد المسيحيون إله واحد أم ثلاثة؟ ماذا يقول القرآن عن الذي يؤمن باله واحد مفرد؟
+
+
+### 19 ep7 لمن يصلي المسيح وهو الاله الحقيقي/Christ Praying on the Cross
+{% include embed_yt.html id="1-9JGl6PxkU" %}
+٧إذا المسيح هو الله، لمنْ كان يصلي؟
+- سبب صلاة المسيح على الصليب.
+- منْ كان يمثل المسيح على الصليب؟
+
+
+### 20 ep8 هل المسيح صلب/Was Christ Crucified?
+{% include embed_yt.html id="1FyPiN8SCps" %}
+شبه به أم شبه لهم؟ من الذي جاء بفكرة الشبيه، الشيطان أم الله؟ لماذا لا يصلب المسيح، إن أراد بمحبة وسلطان أن يموت عن البشرية؟ هل المسيح الذبح العظيم الأعظم؟
+
+
+### 21 
+
+
+
