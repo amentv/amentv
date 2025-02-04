@@ -59,3 +59,9 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 ### One God to three ? No10 / إله واحد ام ثلاثة؟
 {% include embed_yt.html id="7mRUZ7djau4" %}
 هل المسيحية ام الإسلام ينادي بعقيدة التوحيد؟
+
+### 11 The Bible The Word of God/الكتاب المقدس / كلمة الله
+{% include embed_yt.html id="3nCmH2O_cBY" %}
+تؤمنوا بالله وكتبه ورسلة. الكتاب المقدس لجميع البشرية. كلمة الله الحية الباقية الثابتة الى الابد. كلمة الله تحيي رجاء في القلوب
+
+
