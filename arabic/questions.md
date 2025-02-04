@@ -10,7 +10,7 @@ lang: "ar"
 {% include embed_yt.html id="ebGWOQoj4qU" %}
 
 
-This page contains questions many muslims might have about Jesus and the bible. Click on a question you have below and watch the video for an answer.
+This page contains questions many Muslims might have about Jesus and the bible. Click on a question you have below and watch the video for an answer.
 
 * TOC
 {:toc}
@@ -103,7 +103,57 @@ Jesus is the ultimate sacrifice. Animals can't be the substitute for humans.
 شبه به أم شبه لهم؟ من الذي جاء بفكرة الشبيه، الشيطان أم الله؟ لماذا لا يصلب المسيح، إن أراد بمحبة وسلطان أن يموت عن البشرية؟ هل المسيح الذبح العظيم الأعظم؟
 
 
-### 21 
+### 21 ep9 تحريف الكتاب المقدس#١/Was the Bible Distorted?
+{% include embed_yt.html id="-fv0Lqw69f0" %}
+
+#١ تحرف الكتاب المقدس؟
+لا يوجد آية في القرآن تعلن تحريف الكتاب المقدس.
+آيات القرآن تعلن تحريف القرآن. 
+
+
+### 22 Ep10  تحريف الكتاب المقدس#٢/Was the Bible Distorted ?
+{% include embed_yt.html id="k_L4T3c9VeI" %}
+#٢ تحرف الكتاب المقدس؟
+لا يوجد آية في القرآن تعلن تحريف الكتاب المقدس.
+آيات القرآن تعلن تحريف القرآن. 
+
+
+### 23 Ep11  تحريف الكتاب المقدس#٣/Was the Bible Distorted ?
+{% include embed_yt.html id="7zbQAbTgQKE" %}
+
+#٣ تحرف الكتاب المقدس؟
+لا يوجد آية في القرآن تعلن تحريف الكتاب المقدس.
+آيات القرآن تعلن تحريف القرآن. 
+
+### 24 ep12 الناسخ والمنسوخ/Abrogation in the Bible?
+{% include embed_yt.html id="uYzWGzRAj9I" %}
+
+هل يوجد ناسخ ومنسوخ في الكتاب المقدس؟
+هل الناسخ والمنسوخ يعلن تغيير وتحريف القرآن؟
+هل تغيرت الظروف عند نزول القرآن، أم تغيّر القرآن في اللوح المحفوظ؟
+
+
+### 25 ep 13 مصدر الخطية/The source of sin
+{% include embed_yt.html id="MndZotrKHkA" %}
+
+
+### 26 ep Jafar Testimony part 1/١#١شهادة الاخ جعفر
+{% include embed_yt.html id="ghXmMYeaTuA" %}
+تقابلت مع المسيح سنة ١٩٨٦ 
+شهدت لوالدتي عن المسيح وكان عمري ٦ سنوات.
+المسيح غير حياتي ونور دربي. 
+المسيح أعظم صديق.
+
+
+### 27 ep2 شهادة الاخ جعفر #٢/Jafar Testimony part 2
+{% include embed_yt.html id="_vxsUVr9Cg4" %}
+مواجهة العائلة ووالدي.
+الدعوة للمحاكمة في المحكمة الإسلامية. 
+الإنجيل يسمّع في المحكمة الإسلامية.
+القاضي يطلب المعرفة أكثر عن المسيح.
+أنقذني الرب بواسطة المطر. 
+
+
 
 
 
