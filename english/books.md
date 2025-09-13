@@ -6,7 +6,7 @@ order: 3
 lang: "en"
 ---
 
-# BOOKS: REACHING OUT... PART I, PART II(Helping you how to reach out to Muslims), Believers DISCIPLESHIP(Helping Believers/Mbbs to grow in faith) THE BOOK OF QURAN(Good translation from the Arabic Quran) 100 FACTS ABOUT ISLAM(Knowing the reality about Islam from Quran) REDEMPTION PLAN IN QURAN THROUGH CHRIST, ANSWERING MUSLIMS 5 COMMON QUESTIONS FROM QURAN & BIBLE
+# BOOKS: REACHING OUT... PART I, PART II(Helping you how to reach out to Muslims), Believer's DISCIPLESHIP(Helping Believers/Mbbs to grow in faith) THE BOOK OF QURAN(Good translation from the Arabic Quran) 100 FACTS ABOUT ISLAM(Knowing the reality about Islam from Quran) REDEMPTION PLAN IN QURAN THROUGH CHRIST, ANSWERING MUSLIMS 5 COMMON QUESTIONS FROM QURAN & BIBLE
 
 # Free Sharing Book :100 Facts about Islam-- - You Should Know
 [WebBook100FactsENGLISH2023 copy.pdf](https://github.com/amentv/amentv/files/14092386/WebBook100FactsENGLISH2023.copy.pdf)
@@ -24,11 +24,15 @@ lang: "en"
 <https://github.com/user-attachments/files/22313756/NewReaching.IISeptember2025NewEdit.pdf>
 
 
-# Free Sharing Book : Believers Discipleship Part 1 New Eddition 2025
+<img width="1461" height="576" alt="Eng1Discipl20 30X8" src="https://github.com/user-attachments/assets/5801b734-1955-4316-95c6-6f9ef7c026cf" />
+<img width="1461" height="576" alt="Eng2 Discipl20 30X8" src="https://github.com/user-attachments/assets/5a9a4aa5-88c5-40ff-a56a-b73cda48d1f2" />
+
+
+# Free Sharing Book : Believer's Discipleship Part 1 New Eddition 2025
 <https://github.com/amentv/amentv/files/14092270/WebGithubEnglish.Discipleship.1.September.copy.pdf>
 
 
-# Free Sharing Book : Believers Discipleship Part 2 New Eddition 2025
+# Free Sharing Book : Believer's Discipleship Part 2 New Eddition 2025
 <https://github.com/amentv/amentv/files/14092310/WebGithubEnglish.Discipleship.2.September.copy.pdf>
 
 
