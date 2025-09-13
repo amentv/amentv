@@ -29,12 +29,11 @@ lang: "en"
 
 
 # Free Sharing Book : Believer's Discipleship Part 1 New Eddition 2025
-<https://github.com/amentv/amentv/files/14092270/WebGithubEnglish.Discipleship.1.September.copy.pdf>
+<https://github.com/user-attachments/files/22314482/EngDisciple.1NewEditionSeptember2025.pdf>
 
 
 # Free Sharing Book : Believer's Discipleship Part 2 New Eddition 2025
-<https://github.com/amentv/amentv/files/14092310/WebGithubEnglish.Discipleship.2.September.copy.pdf>
-
+<https://github.com/user-attachments/files/22314493/Eng.Disciple.2NewEditionSeptember2025.2.pdf>
 
 # ORDERING BOOKS/Donations for/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
