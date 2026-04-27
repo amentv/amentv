@@ -44,7 +44,7 @@ Pray and partner with us, please. We believe that we all will see the miraculous
 # CHECKS made payable to AmenTV or S V M S,Inc 
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMEN TV/SHOUTING VOICE MINIATRY SERVICE Zelle Account: 6262267717
-# Contact: 626-226-7717
+# Question? Contact: 626-226-7717
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
 # WEBSITE: WWW.AMENTV.TV
 # YOUTUBE: AMENTV AMENTV
