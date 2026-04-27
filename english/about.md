@@ -8,7 +8,7 @@ lang: "en"
 
 # MY PATH
 
-Dear Brothers and Sisters in Christ, I am brother Jafer a Christian convert. I met the Lord Jesus through a vision He gave me in 1986. Jesus saved my life, and He's my Lord and Savior.
+Dear Brothers and Sisters in Christ, I am brother Jafar a Christian convert. I met the Lord Jesus through a vision He gave me in 1986. Jesus saved my life, and He's my Lord and Savior.
 In 2003, the Lord gave me a chance to proclaim the gospel through Christian satellite media. The Lord has blessed me with the opportunity to involve more with Christian Arabic TV stations such as Alhayat, ABN, Akarma, TruthTV, and Alfady.
 My voice has been heard in many countries by the grace of God. Muslims convert to Christ on live TV as they hear the gospel. 
 The Lord has grown a tremendous burden in my heart for Muslims. The Lord Jesus is stirring up my heart and spirit to reach more Muslims through Amen TV. 
@@ -31,15 +31,20 @@ Pray and partner with us, please. We believe that we all will see the miraculous
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/116606482/210141317-25e985ab-5681-4ed5-8905-c93b4ffd0914.png">
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/116606482/210149120-25ede954-0200-4063-9cda-274c03a74647.png">
 
-# Free Sharing Book : Reaching Out Part 1
+# Sharing Book : Reaching Out Part 1
 <https://drive.google.com/file/d/1pcV4AejygLoIOXHAbfDDWBe_3refoSBy/view?usp=share_link>
 
-# Free Sharing Book : Reaching Out Part 2
+# Sharing Book : Reaching Out Part 2
 <https://drive.google.com/file/d/1L_a2XWQRwSRZKrKg1HX0xkZvEGao-CBT/view?usp=share_link>
 
 
 
-# ORDERING BOOKS/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
+# Your Donation and Encouragement are greatly Appreciate.
+# Donate: Donations can be done by one of the following methods. 
+# CHECKS made payable to AmenTV or S V M S,Inc 
+# Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
+# AMEN TV/SHOUTING VOICE MINIATRY SERVICE Zelle Account: 6262267717
+# Contact: 626-226-7717
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
 # WEBSITE: WWW.AMENTV.TV
 # YOUTUBE: AMENTV AMENTV
