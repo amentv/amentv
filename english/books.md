@@ -44,7 +44,7 @@ lang: "en"
 # CHECKS made payable to AMENTV or S V M S, Inc
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMENTV/Shouting Voice Ministry Service Zelle Account: 6262267717
-# Contact: 626-226-7717
+# Question? Contact: 626-226-7717
 # EMAIL ADDRESS: AMENSATTV@GMAIL.COM
 # WEBSITE: WWW.AMENTV.TV
 # YOUTUBE: AMENTV AMENTV
