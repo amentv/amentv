@@ -6,6 +6,19 @@ order: 3
 lang: "en"
 ---
 
+# Your Donation and Encouragement are greatly appreciate.
+# Thank You for Supporting Our Books and this Ministry. God Bless you.
+# Donate: Donations can be done by one of the following methods:
+# CHECKS made payable to AMENTV or S V M S, Inc
+# Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
+# AMENTV/Shouting Voice Ministry Service Zelle Account: 6262267717
+# AmenTv Zelle QR Code <img width="823" height="999" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/9ce3eb73-87d0-4a76-9a38-8a810ff820e6" />
+
+# Question? Contact: 626-226-7717
+# EMAIL ADDRESS: AMENSATTV@GMAIL.COM
+# WEBSITE: WWW.AMENTV.TV
+# YOUTUBE: AMENTV AMENTV
+# FACEBOOK: AMENTV AMENTV
 # BOOKS: REACHING OUT... PART I, PART II(Helping you how to reach out to Muslims), Believer's DISCIPLESHIP(Helping Believers/Mbbs to grow in faith) THE BOOK OF QURAN(Good translation from the Arabic Quran) 100 FACTS ABOUT ISLAM(Knowing the reality about Islam from Quran) REDEMPTION PLAN IN QURAN THROUGH CHRIST, ANSWERING MUSLIMS 5 COMMON QUESTIONS FROM QURAN & BIBLE
 
 # My Conversion Testimony
