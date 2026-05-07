@@ -27,6 +27,8 @@ lang: "ar"
 # Checks made payable to AmenTV or S V M S 
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AmenTV/Shouting Voice Ministry Servic, Inc Zelle Account: 6262267717
+# Zelle QR Code <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/525b44f2-0e43-485b-bb1e-dd846af98f33" />
+
 # Contact: 626-226-7717
 
 # My Conversion Testimony/اختباري في المسيح 
@@ -64,6 +66,8 @@ lang: "ar"
 
 # ORDERING BOOKS/AMEN TV/SHOUTING VOICE MINIATRY SERVICE MAILING ADRESS: ‘AMENTV’: P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # Donation to AmenTV Zelle Account: 6262267717
+# Zelle QR Code <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/6a93e6a4-d282-46d2-a464-85d467a8eb6a" />
+
 # Question? Contact: 626-226-7717
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM
 # WEBSITE: WWW.AMENTV.TV
