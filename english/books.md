@@ -1,5 +1,4 @@
-<img width="360" height="143" alt="Web2026Eng1CoverReach" src="https://github.com/user-attachments/assets/c8597394-997b-4b03-99d3-85138af70c76" />
----
+
 layout: default
 title: "Books"
 permalink: "/en/book"
