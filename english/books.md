@@ -10,13 +10,13 @@ lang: "en"
 # Your Donation and Encouragement are greatly appreciate.
 # Thank You for Supporting Our Books and this Ministry. God Bless you.
 # Donate: Donations can be done by one of the following methods:
-# CHECKS made payable to AMENTV or S V M S, Inc
+# CHECKS made payable to AMENTV or S V M S,Inc
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMENTV/Shouting Voice Ministry Service Zelle Account: 6262267717
 # AmenTv Zelle QR Code 
 <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/51d02e03-7dcc-4b63-8175-24041dfad110" />
 
-# <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/8a8783e5-a6e2-42f2-acba-f89f0de19f73" />
+#
 
 # Question? Contact: 626-226-7717
 # EMAIL ADDRESS: AMENSATTV@GMAIL.COM
@@ -44,8 +44,9 @@ lang: "en"
 <https://github.com/user-attachments/files/22313756/NewReaching.IISeptember2025NewEdit.pdf>
 
 
-<img width="6081" height="2408" alt="Eng1DisciplGithub20 30X8" src="https://github.com/user-attachments/assets/0ad25a0f-4fea-42cb-b476-378f90a1b204" />
-<img width="6089" height="2408" alt="Eng2 DisciplGithub20 30X8 2" src="https://github.com/user-attachments/assets/ca7f3229-bd1e-4204-810a-245558287f6d" />
+
+<img width="360" height="142" alt="webEng1Discipl2025 20 30X8 copy" src="https://github.com/user-attachments/assets/f32b2ab5-c5cf-45a5-a13e-19c1672c9b96" />
+<img width="360" height="142" alt="WebpngEng2 Discipl2025" src="https://github.com/user-attachments/assets/7ffcb763-9118-4aec-881c-a2d156ccc5fc" />
 
 
 
@@ -62,6 +63,8 @@ lang: "en"
 # CHECKS made payable to AMENTV or S V M S, Inc
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMENTV/Shouting Voice Ministry Service Zelle Account: 6262267717
+# Zelle QR Code <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/3d198ce1-f81d-4975-ad4f-9ec7d1b9bf44" />
+
 # Question? Contact: 626-226-7717
 # EMAIL ADDRESS: AMENSATTV@GMAIL.COM
 # WEBSITE: WWW.AMENTV.TV
