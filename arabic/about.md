@@ -70,6 +70,8 @@ lang: "ar"
 # Checks made payable to AmenTV or S V M S,Inc
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AmenTv/Shouting Voice Ministry Service Zelle Account: 6262267717
+# Zelle QR Code <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/413cbf72-289f-4224-ba04-9dec64e56064" />
+
 # Question? Contact: 626-226-7717
 # AMEN TV EMAIL: AMENSATTV@GMAIL.COM 
 # WEBSITE: WWW.AMENTV.TV
