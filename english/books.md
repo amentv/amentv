@@ -1,3 +1,4 @@
+<img width="360" height="143" alt="Web2026Eng1CoverReach" src="https://github.com/user-attachments/assets/c8597394-997b-4b03-99d3-85138af70c76" />
 ---
 layout: default
 title: "Books"
@@ -13,6 +14,8 @@ lang: "en"
 # Mail to P O BOX 12626, WINSTON-SALEM, NC 27117 USA
 # AMENTV/Shouting Voice Ministry Service Zelle Account: 6262267717
 # AmenTv Zelle QR Code 
+<img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/51d02e03-7dcc-4b63-8175-24041dfad110" />
+
 # <img width="130" height="158" alt="ZelleQRcodePNG" src="https://github.com/user-attachments/assets/8a8783e5-a6e2-42f2-acba-f89f0de19f73" />
 
 # Question? Contact: 626-226-7717
@@ -28,8 +31,9 @@ lang: "en"
 # Sharing Book :100 Facts about Islam-- - You Should Know
 [WebBook100FactsENGLISH2023 copy.pdf](https://github.com/amentv/amentv/files/14092386/WebBook100FactsENGLISH2023.copy.pdf)
 
-<img width="6121" height="2408" alt="2025Eng1CoverReachGithub W10X0 4X10 H8" src="https://github.com/user-attachments/assets/e96a55fc-036c-407a-b0f3-ae5938f6b0a2" />
-<img width="6071" height="2408" alt="2025Eng2GithubCoverReach W10X0 25X10 H8" src="https://github.com/user-attachments/assets/7588a847-a6a3-413f-bc40-5e79231b61c6" />
+
+<img width="360" height="143" alt="Web2026Eng1CoverReach" src="https://github.com/user-attachments/assets/76c6b29f-72e0-440d-b95f-be796d1578dc" />
+<img width="360" height="145" alt="pngWeb2026Eng2Reaching" src="https://github.com/user-attachments/assets/9bd719cf-e74f-425e-8aea-677ec0f93f13" />
 
 
 # Sharing Book : Reaching Out Part 1 New Eddition 2025
